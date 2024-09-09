@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "A Book",
+    "price": 200.0,
+    "description": "This is a good book with a compelling plot,well-developed characters, and beautifully written prose. It's a must-read for fans of fiction who appreciate thought-provoking themes and engaging storytelling.",
+    "image": "../public/book.png"
+  },
+  {
+    "id": 2,
+    "name": "A Glass",
+    "price": "100.00",
+    "description": "This is a nice sunglass with a stunning exterior, a luxurious look. Its advanced safety features and intuitive design make it a pleasure to use.",
+    "image": "../public/glass.png"
+  },
+  {
+    "id": 3,
+    "name": "A Smartphone",
+    "price": 500.0,
+    "description": "This smartphone features a high-resolution camera, a powerful processor, and a long-lasting battery. It's perfect for staying connected and productive on the go.",
+    "image": "../public/smartphone.png"
+  },
+  {
+    "id": 4,
+    "name": "A Laptop",
+    "price": 1000.0,
+    "description": "This laptop is ideal for work, study, and entertainment. It has a large screen, a comfortable keyboard, and a fast processor.",
+    "image": "../public/laptop.png"
+  },
+  {
+    "id": 5,
+    "name": "A Watch",
+    "price": 200.0,
+    "description": "This stylish watch is both functional and fashionable. It has a classic design and features a variety of useful functions.",
+    "image": "../public/watch.png"
+  }
+]

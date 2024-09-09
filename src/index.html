@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>eStore</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body onload="createProductItem()">
+    <div class="cart button">
+      <a href="cart.html"
+        ><img src="../public/cart.png" alt="Cart" width="35" height="35"
+      /></a>
+    </div>
+    <h1>Welcome to eStore</h1>
+    <h4 class="align-content-center">
+      This a new e-commerce website. You can get your all types of necessary
+      things here
+    </h4>
+    <div id="product-list">
+      <h2>Our Products</h2>
+      <ul id="product-list-items"></ul>
+    </div>
+    <script src="../server.js"></script>
+  </body>
+</html>
